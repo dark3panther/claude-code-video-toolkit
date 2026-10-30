@@ -1200,9 +1200,11 @@
         "gridSize",
         "scanlines",
         "glitchArtifacts",
-        "randomness"
+        "randomness",
+        "crisp",
+        "blockStep"
       ],
-      "bestFor": "Retro/gaming themes, digital transformations",
+      "bestFor": "Retro/gaming themes, digital transformations; crisp: true for pixel-art videos (no blur)",
       "status": "stable"
     },
     "checkerboard": {

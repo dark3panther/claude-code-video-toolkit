@@ -10,7 +10,7 @@ import type {
   TransitionPresentation,
   TransitionPresentationComponentProps,
 } from '@remotion/transitions';
-import React, { useMemo } from 'react';
+import React, { useId, useMemo } from 'react';
 import { AbsoluteFill, interpolate, random } from 'remotion';
 
 export type PixelateProps = {
@@ -24,6 +24,14 @@ export type PixelateProps = {
   glitchArtifacts?: boolean;
   /** Randomness of block reveal (0-1). Default: 0.8 */
   randomness?: number;
+  /**
+   * Hard-edged mosaic instead of blur: the scene breaks into solid blocks that
+   * double in size up to maxBlockSize, then the next scene resolves the same way.
+   * No blur, glitch or scanlines. For pixel-art videos. Default: false
+   */
+  crisp?: boolean;
+  /** Smallest mosaic block in crisp mode (px), e.g. the art's pixel scale. Default: 8 */
+  blockStep?: number;
 };
 
 // Generate pseudo-random value for a grid cell
@@ -40,9 +48,12 @@ const PixelatePresentation: React.FC<
     scanlines = true,
     glitchArtifacts = true,
     randomness = 0.8,
+    crisp = false,
+    blockStep = 8,
   } = passedProps;
 
   const seed = 42;
+  const filterId = 'pixelate-' + useId().replace(/[^a-zA-Z0-9]/g, '');
 
   // For entering: 0→1, for exiting: treat as inverse
   const progress = presentationDirection === 'exiting'
@@ -107,6 +118,31 @@ const PixelatePresentation: React.FC<
   }, [glitchArtifacts, pixelIntensity, progress]);
 
   const shouldApplyEffect = pixelIntensity > 0.05;
+
+  if (crisp) {
+    // Block size snaps to blockStep x 1, 2, 4, 8... so the mosaic steps like a
+    // retro console; the scenes swap with a hard cut at the midpoint.
+    const raw = pixelIntensity * maxBlockSize;
+    const block = raw < blockStep ? 0 : blockStep * 2 ** Math.floor(Math.log2(raw / blockStep));
+    const visible = presentationDirection === 'exiting' ? presentationProgress < 0.5 : presentationProgress >= 0.5;
+    return (
+      <AbsoluteFill style={{ opacity: visible ? 1 : 0 }}>
+        {block > 0 && (
+          <svg width={0} height={0} style={{ position: 'absolute' }}>
+            {/* Sample one pixel per block, then dilate it to fill the block. */}
+            <filter id={filterId} x={0} y={0} width="100%" height="100%" primitiveUnits="userSpaceOnUse">
+              <feFlood x={block / 2} y={block / 2} width={1} height={1} />
+              <feComposite width={block} height={block} />
+              <feTile result="grid" />
+              <feComposite in="SourceGraphic" in2="grid" operator="in" />
+              <feMorphology operator="dilate" radius={block / 2} />
+            </filter>
+          </svg>
+        )}
+        <AbsoluteFill style={{ filter: block > 0 ? `url(#${filterId})` : undefined }}>{children}</AbsoluteFill>
+      </AbsoluteFill>
+    );
+  }
 
   return (
     <AbsoluteFill style={{ backgroundColor: '#000' }}>

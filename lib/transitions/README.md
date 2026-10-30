@@ -135,8 +135,13 @@ pixelate({
   scanlines: true,        // CRT scanline overlay. Default: true
   glitchArtifacts: true,  // RGB split and glitch slices. Default: true
   randomness: 0.8,        // Block reveal randomness (0-1). Default: 0.8
+  crisp: false,           // Hard-edged mosaic, no blur/glitch/scanlines. Default: false
+  blockStep: 8,           // Smallest crisp block (px), e.g. the art's pixel scale. Default: 8
 })
 ```
+
+`crisp: true` is for pixel-art videos: blocks double from `blockStep` up to `maxBlockSize`, then the next
+scene resolves the same way, with a hard cut at the midpoint and no blur.
 
 ### checkerboard(options?)
 
