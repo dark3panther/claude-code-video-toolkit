@@ -1,0 +1,977 @@
+{
+ "scenes": [
+  {
+   "id": "title",
+   "sentences": [
+    {
+     "start": 0.9,
+     "end": 3.135,
+     "words": [
+      {
+       "text": "The",
+       "start": 0.96,
+       "end": 1.085,
+       "speaker": "N"
+      },
+      {
+       "text": "Crow",
+       "start": 1.185,
+       "end": 1.61,
+       "speaker": "N"
+      },
+      {
+       "text": "and",
+       "start": 1.66,
+       "end": 1.735,
+       "speaker": "N"
+      },
+      {
+       "text": "the",
+       "start": 1.76,
+       "end": 1.835,
+       "speaker": "N"
+      },
+      {
+       "text": "Fox.",
+       "start": 1.935,
+       "end": 2.885,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/title_0_0.wav",
+     "start": 0.9,
+     "speaker": "N"
+    }
+   ],
+   "duration": 4.435
+  },
+  {
+   "id": "cheese",
+   "sentences": [
+    {
+     "start": 0.9,
+     "end": 4.96,
+     "words": [
+      {
+       "text": "One",
+       "start": 0.96,
+       "end": 1.21,
+       "speaker": "N"
+      },
+      {
+       "text": "morning,",
+       "start": 1.26,
+       "end": 1.91,
+       "speaker": "N"
+      },
+      {
+       "text": "a",
+       "start": 2.085,
+       "end": 2.16,
+       "speaker": "N"
+      },
+      {
+       "text": "crow",
+       "start": 2.285,
+       "end": 2.76,
+       "speaker": "N"
+      },
+      {
+       "text": "found",
+       "start": 2.835,
+       "end": 3.085,
+       "speaker": "N"
+      },
+      {
+       "text": "a",
+       "start": 3.11,
+       "end": 3.135,
+       "speaker": "N"
+      },
+      {
+       "text": "piece",
+       "start": 3.21,
+       "end": 3.51,
+       "speaker": "N"
+      },
+      {
+       "text": "of",
+       "start": 3.535,
+       "end": 3.635,
+       "speaker": "N"
+      },
+      {
+       "text": "cheese.",
+       "start": 3.71,
+       "end": 4.71,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 6.11,
+     "end": 8.77,
+     "words": [
+      {
+       "text": "She",
+       "start": 6.17,
+       "end": 6.32,
+       "speaker": "N"
+      },
+      {
+       "text": "flew",
+       "start": 6.395,
+       "end": 6.595,
+       "speaker": "N"
+      },
+      {
+       "text": "up",
+       "start": 6.645,
+       "end": 6.82,
+       "speaker": "N"
+      },
+      {
+       "text": "into",
+       "start": 6.845,
+       "end": 7.095,
+       "speaker": "N"
+      },
+      {
+       "text": "a",
+       "start": 7.145,
+       "end": 7.195,
+       "speaker": "N"
+      },
+      {
+       "text": "tall",
+       "start": 7.27,
+       "end": 7.62,
+       "speaker": "N"
+      },
+      {
+       "text": "tree.",
+       "start": 7.72,
+       "end": 8.52,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/cheese_0_0.wav",
+     "start": 0.9,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/cheese_1_0.wav",
+     "start": 6.11,
+     "speaker": "N"
+    }
+   ],
+   "duration": 10.57
+  },
+  {
+   "id": "fox",
+   "sentences": [
+    {
+     "start": 0.9,
+     "end": 3.685,
+     "words": [
+      {
+       "text": "A",
+       "start": 0.96,
+       "end": 1.035,
+       "speaker": "N"
+      },
+      {
+       "text": "hungry",
+       "start": 1.11,
+       "end": 1.61,
+       "speaker": "N"
+      },
+      {
+       "text": "fox",
+       "start": 1.685,
+       "end": 2.16,
+       "speaker": "N"
+      },
+      {
+       "text": "walked",
+       "start": 2.235,
+       "end": 2.585,
+       "speaker": "N"
+      },
+      {
+       "text": "by.",
+       "start": 2.635,
+       "end": 3.435,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 4.735,
+     "end": 6.745,
+     "words": [
+      {
+       "text": "He",
+       "start": 4.795,
+       "end": 4.97,
+       "speaker": "N"
+      },
+      {
+       "text": "saw",
+       "start": 5.045,
+       "end": 5.27,
+       "speaker": "N"
+      },
+      {
+       "text": "the",
+       "start": 5.32,
+       "end": 5.395,
+       "speaker": "N"
+      },
+      {
+       "text": "cheese.",
+       "start": 5.47,
+       "end": 6.47,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 7.695,
+     "end": 11.54,
+     "words": [
+      {
+       "text": "\"I",
+       "start": 7.755,
+       "end": 7.88,
+       "speaker": "F"
+      },
+      {
+       "text": "want",
+       "start": 7.955,
+       "end": 8.18,
+       "speaker": "F"
+      },
+      {
+       "text": "that",
+       "start": 8.23,
+       "end": 8.455,
+       "speaker": "F"
+      },
+      {
+       "text": "cheese!\"",
+       "start": 8.53,
+       "end": 9.605,
+       "speaker": "F"
+      },
+      {
+       "text": "he",
+       "start": 10.19,
+       "end": 10.365,
+       "speaker": "N"
+      },
+      {
+       "text": "said.",
+       "start": 10.44,
+       "end": 11.24,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/fox_0_0.wav",
+     "start": 0.9,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/fox_1_0.wav",
+     "start": 4.735,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/fox_2_0.wav",
+     "start": 7.695,
+     "speaker": "F"
+    },
+    {
+     "file": "audio/vo/fox_2_1.wav",
+     "start": 10.13,
+     "speaker": "N"
+    }
+   ],
+   "duration": 12.34
+  },
+  {
+   "id": "flatter",
+   "sentences": [
+    {
+     "start": 0.9,
+     "end": 4.72,
+     "words": [
+      {
+       "text": "\"Hello,",
+       "start": 0.96,
+       "end": 1.435,
+       "speaker": "F"
+      },
+      {
+       "text": "Crow!\"",
+       "start": 1.56,
+       "end": 2.485,
+       "speaker": "F"
+      },
+      {
+       "text": "said",
+       "start": 3.045,
+       "end": 3.245,
+       "speaker": "N"
+      },
+      {
+       "text": "the",
+       "start": 3.27,
+       "end": 3.345,
+       "speaker": "N"
+      },
+      {
+       "text": "Fox.",
+       "start": 3.445,
+       "end": 4.445,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 5.27,
+     "end": 8.13,
+     "words": [
+      {
+       "text": "\"Your",
+       "start": 5.33,
+       "end": 5.53,
+       "speaker": "F"
+      },
+      {
+       "text": "feathers",
+       "start": 5.63,
+       "end": 6.155,
+       "speaker": "F"
+      },
+      {
+       "text": "are",
+       "start": 6.23,
+       "end": 6.33,
+       "speaker": "F"
+      },
+      {
+       "text": "so",
+       "start": 6.43,
+       "end": 6.68,
+       "speaker": "F"
+      },
+      {
+       "text": "shiny.",
+       "start": 6.83,
+       "end": 7.855,
+       "speaker": "F"
+      }
+     ]
+    },
+    {
+     "start": 8.68,
+     "end": 12.165,
+     "words": [
+      {
+       "text": "I",
+       "start": 8.74,
+       "end": 8.865,
+       "speaker": "F"
+      },
+      {
+       "text": "think",
+       "start": 8.94,
+       "end": 9.115,
+       "speaker": "F"
+      },
+      {
+       "text": "your",
+       "start": 9.165,
+       "end": 9.29,
+       "speaker": "F"
+      },
+      {
+       "text": "voice",
+       "start": 9.39,
+       "end": 9.89,
+       "speaker": "F"
+      },
+      {
+       "text": "is",
+       "start": 9.965,
+       "end": 10.115,
+       "speaker": "F"
+      },
+      {
+       "text": "beautiful",
+       "start": 10.24,
+       "end": 10.89,
+       "speaker": "F"
+      },
+      {
+       "text": "too.",
+       "start": 11.015,
+       "end": 11.915,
+       "speaker": "F"
+      }
+     ]
+    },
+    {
+     "start": 12.715,
+     "end": 14.9,
+     "words": [
+      {
+       "text": "Please",
+       "start": 12.775,
+       "end": 13.25,
+       "speaker": "F"
+      },
+      {
+       "text": "sing",
+       "start": 13.375,
+       "end": 13.675,
+       "speaker": "F"
+      },
+      {
+       "text": "for",
+       "start": 13.75,
+       "end": 13.875,
+       "speaker": "F"
+      },
+      {
+       "text": "me!\"",
+       "start": 13.925,
+       "end": 14.65,
+       "speaker": "F"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/flatter_0_0.wav",
+     "start": 0.9,
+     "speaker": "F"
+    },
+    {
+     "file": "audio/vo/flatter_0_1.wav",
+     "start": 2.985,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/flatter_1_0.wav",
+     "start": 5.27,
+     "speaker": "F"
+    },
+    {
+     "file": "audio/vo/flatter_2_0.wav",
+     "start": 8.68,
+     "speaker": "F"
+    },
+    {
+     "file": "audio/vo/flatter_3_0.wav",
+     "start": 12.715,
+     "speaker": "F"
+    }
+   ],
+   "duration": 15.7
+  },
+  {
+   "id": "sing",
+   "sentences": [
+    {
+     "start": 0.9,
+     "end": 3.51,
+     "words": [
+      {
+       "text": "The",
+       "start": 0.96,
+       "end": 1.06,
+       "speaker": "N"
+      },
+      {
+       "text": "Crow",
+       "start": 1.135,
+       "end": 1.485,
+       "speaker": "N"
+      },
+      {
+       "text": "felt",
+       "start": 1.56,
+       "end": 1.835,
+       "speaker": "N"
+      },
+      {
+       "text": "very",
+       "start": 1.91,
+       "end": 2.26,
+       "speaker": "N"
+      },
+      {
+       "text": "proud.",
+       "start": 2.335,
+       "end": 3.26,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 4.36,
+     "end": 8.805,
+     "words": [
+      {
+       "text": "She",
+       "start": 4.42,
+       "end": 4.545,
+       "speaker": "N"
+      },
+      {
+       "text": "opened",
+       "start": 4.62,
+       "end": 4.97,
+       "speaker": "N"
+      },
+      {
+       "text": "her",
+       "start": 4.995,
+       "end": 5.095,
+       "speaker": "N"
+      },
+      {
+       "text": "beak",
+       "start": 5.17,
+       "end": 5.52,
+       "speaker": "N"
+      },
+      {
+       "text": "and",
+       "start": 5.57,
+       "end": 5.695,
+       "speaker": "N"
+      },
+      {
+       "text": "sang,",
+       "start": 5.795,
+       "end": 6.62,
+       "speaker": "N"
+      },
+      {
+       "text": "\"Caw!",
+       "start": 7.18,
+       "end": 7.505,
+       "speaker": "C"
+      },
+      {
+       "text": "Caw!\"",
+       "start": 7.63,
+       "end": 8.505,
+       "speaker": "C"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/sing_0_0.wav",
+     "start": 0.9,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/sing_1_0.wav",
+     "start": 4.36,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/sing_1_1.wav",
+     "start": 7.12,
+     "speaker": "C"
+    }
+   ],
+   "duration": 10.205
+  },
+  {
+   "id": "fall",
+   "sentences": [
+    {
+     "start": 0.9,
+     "end": 3.135,
+     "words": [
+      {
+       "text": "The",
+       "start": 0.96,
+       "end": 1.06,
+       "speaker": "N"
+      },
+      {
+       "text": "cheese",
+       "start": 1.135,
+       "end": 1.61,
+       "speaker": "N"
+      },
+      {
+       "text": "fell",
+       "start": 1.685,
+       "end": 1.96,
+       "speaker": "N"
+      },
+      {
+       "text": "down.",
+       "start": 2.035,
+       "end": 2.885,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 4.685,
+     "end": 7.62,
+     "words": [
+      {
+       "text": "The",
+       "start": 4.745,
+       "end": 4.845,
+       "speaker": "N"
+      },
+      {
+       "text": "Fox",
+       "start": 4.92,
+       "end": 5.395,
+       "speaker": "N"
+      },
+      {
+       "text": "caught",
+       "start": 5.47,
+       "end": 5.745,
+       "speaker": "N"
+      },
+      {
+       "text": "it",
+       "start": 5.82,
+       "end": 5.97,
+       "speaker": "N"
+      },
+      {
+       "text": "and",
+       "start": 6.045,
+       "end": 6.12,
+       "speaker": "N"
+      },
+      {
+       "text": "ran",
+       "start": 6.17,
+       "end": 6.42,
+       "speaker": "N"
+      },
+      {
+       "text": "away.",
+       "start": 6.47,
+       "end": 7.37,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 8.47,
+     "end": 11.715,
+     "words": [
+      {
+       "text": "\"Thank",
+       "start": 8.53,
+       "end": 8.905,
+       "speaker": "F"
+      },
+      {
+       "text": "you!\"",
+       "start": 9.005,
+       "end": 9.705,
+       "speaker": "F"
+      },
+      {
+       "text": "he",
+       "start": 10.265,
+       "end": 10.44,
+       "speaker": "N"
+      },
+      {
+       "text": "laughed.",
+       "start": 10.515,
+       "end": 11.44,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/fall_0_0.wav",
+     "start": 0.9,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/fall_1_0.wav",
+     "start": 4.685,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/fall_2_0.wav",
+     "start": 8.47,
+     "speaker": "F"
+    },
+    {
+     "file": "audio/vo/fall_2_1.wav",
+     "start": 10.205,
+     "speaker": "N"
+    }
+   ],
+   "duration": 13.315
+  },
+  {
+   "id": "moral",
+   "sentences": [
+    {
+     "start": 0.9,
+     "end": 7.41,
+     "words": [
+      {
+       "text": "Moral:",
+       "start": 0.96,
+       "end": 1.76,
+       "speaker": "N"
+      },
+      {
+       "text": "Be",
+       "start": 1.935,
+       "end": 2.06,
+       "speaker": "N"
+      },
+      {
+       "text": "careful",
+       "start": 2.135,
+       "end": 2.685,
+       "speaker": "N"
+      },
+      {
+       "text": "when",
+       "start": 2.735,
+       "end": 2.885,
+       "speaker": "N"
+      },
+      {
+       "text": "someone",
+       "start": 2.96,
+       "end": 3.36,
+       "speaker": "N"
+      },
+      {
+       "text": "says",
+       "start": 3.435,
+       "end": 3.71,
+       "speaker": "N"
+      },
+      {
+       "text": "nice",
+       "start": 3.785,
+       "end": 4.185,
+       "speaker": "N"
+      },
+      {
+       "text": "things",
+       "start": 4.26,
+       "end": 4.885,
+       "speaker": "N"
+      },
+      {
+       "text": "just",
+       "start": 4.96,
+       "end": 5.235,
+       "speaker": "N"
+      },
+      {
+       "text": "to",
+       "start": 5.285,
+       "end": 5.335,
+       "speaker": "N"
+      },
+      {
+       "text": "get",
+       "start": 5.385,
+       "end": 5.585,
+       "speaker": "N"
+      },
+      {
+       "text": "something",
+       "start": 5.66,
+       "end": 6.135,
+       "speaker": "N"
+      },
+      {
+       "text": "from",
+       "start": 6.21,
+       "end": 6.41,
+       "speaker": "N"
+      },
+      {
+       "text": "you.",
+       "start": 6.485,
+       "end": 7.185,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/moral_0_0.wav",
+     "start": 0.9,
+     "speaker": "N"
+    }
+   ],
+   "duration": 8.91
+  },
+  {
+   "id": "words",
+   "sentences": [
+    {
+     "start": 0.9,
+     "end": 2.135,
+     "words": [
+      {
+       "text": "crow",
+       "start": 0.96,
+       "end": 1.835,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 2.385,
+     "end": 3.67,
+     "words": [
+      {
+       "text": "fox",
+       "start": 2.445,
+       "end": 3.37,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 3.92,
+     "end": 5.355,
+     "words": [
+      {
+       "text": "cheese",
+       "start": 3.98,
+       "end": 5.055,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 5.605,
+     "end": 6.915,
+     "words": [
+      {
+       "text": "tree",
+       "start": 5.665,
+       "end": 6.615,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 7.165,
+     "end": 8.65,
+     "words": [
+      {
+       "text": "feathers",
+       "start": 7.225,
+       "end": 8.35,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 8.9,
+     "end": 10.085,
+     "words": [
+      {
+       "text": "beak",
+       "start": 8.96,
+       "end": 9.785,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 10.335,
+     "end": 11.495,
+     "words": [
+      {
+       "text": "sing",
+       "start": 10.395,
+       "end": 11.195,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/words_0_0.wav",
+     "start": 0.9,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/words_1_0.wav",
+     "start": 2.385,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/words_2_0.wav",
+     "start": 3.92,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/words_3_0.wav",
+     "start": 5.605,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/words_4_0.wav",
+     "start": 7.165,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/words_5_0.wav",
+     "start": 8.9,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/words_6_0.wav",
+     "start": 10.335,
+     "speaker": "N"
+    }
+   ],
+   "duration": 12.545
+  }
+ ]
+}

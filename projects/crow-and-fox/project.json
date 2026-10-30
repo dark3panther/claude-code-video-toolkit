@@ -1,0 +1,127 @@
+{
+  "name": "crow-and-fox",
+  "template": "custom (pixel-art Remotion)",
+  "brand": "none",
+  "created": "2026-10-29T15:50:00+00:00",
+  "updated": "2026-10-30T08:04:50+00:00",
+  "phase": "complete",
+  "scenes": [
+    {
+      "id": "title",
+      "name": "Title",
+      "type": "title",
+      "visual": {
+        "type": "slide"
+      },
+      "narration": "The Crow and the Fox.",
+      "durationSeconds": 4.435,
+      "status": "ready"
+    },
+    {
+      "id": "cheese",
+      "name": "Crow finds the cheese",
+      "type": "overview",
+      "visual": {
+        "type": "slide"
+      },
+      "narration": "One morning, a crow found a piece of cheese. She flew up into a tall tree.",
+      "durationSeconds": 10.57,
+      "status": "ready"
+    },
+    {
+      "id": "fox",
+      "name": "The fox arrives",
+      "type": "overview",
+      "visual": {
+        "type": "slide"
+      },
+      "narration": "A hungry fox walked by. He saw the cheese. \"I want that cheese!\" he said.",
+      "durationSeconds": 12.34,
+      "status": "ready"
+    },
+    {
+      "id": "flatter",
+      "name": "The fox flatters",
+      "type": "overview",
+      "visual": {
+        "type": "slide"
+      },
+      "narration": "\"Hello, Crow!\" said the Fox. \"Your feathers are so shiny. I think your voice is beautiful too. Please sing for me!\"",
+      "durationSeconds": 15.7,
+      "status": "ready"
+    },
+    {
+      "id": "sing",
+      "name": "The crow sings",
+      "type": "overview",
+      "visual": {
+        "type": "slide"
+      },
+      "narration": "The Crow felt very proud. She opened her beak and sang, \"Caw! Caw!\"",
+      "durationSeconds": 10.205,
+      "status": "ready"
+    },
+    {
+      "id": "fall",
+      "name": "The cheese falls",
+      "type": "overview",
+      "visual": {
+        "type": "slide"
+      },
+      "narration": "The cheese fell down. The Fox caught it and ran away. \"Thank you!\" he laughed.",
+      "durationSeconds": 13.315,
+      "status": "ready"
+    },
+    {
+      "id": "moral",
+      "name": "Moral",
+      "type": "summary",
+      "visual": {
+        "type": "slide"
+      },
+      "narration": "Moral: Be careful when someone says nice things just to get something from you.",
+      "durationSeconds": 8.91,
+      "status": "ready"
+    },
+    {
+      "id": "words",
+      "name": "Key words",
+      "type": "credits",
+      "visual": {
+        "type": "slide"
+      },
+      "narration": "crow fox cheese tree feathers beak sing",
+      "durationSeconds": 12.545,
+      "status": "ready"
+    }
+  ],
+  "audio": {
+    "voiceover": {
+      "file": "audio/vo/",
+      "status": "present",
+      "provider": "kokoro-82M (offline)"
+    },
+    "music": {
+      "file": "audio/music.wav",
+      "status": "present"
+    }
+  },
+  "render": {
+    "file": "out/crow-and-fox.mp4",
+    "durationSeconds": 83.4,
+    "loudness": "-15.1 LUFS / -1.3 dBTP"
+  },
+  "estimates": {
+    "totalDurationSeconds": 83.4
+  },
+  "sessions": [
+    {
+      "date": "2026-10-29",
+      "summary": "Project created; pixel-art engine, sprites and sample frame approved"
+    },
+    {
+      "date": "2026-10-30",
+      "summary": "Voices, music, SFX, all 8 scenes, crisp pixelate transition; rendered and QC passed"
+    }
+  ]
+}
