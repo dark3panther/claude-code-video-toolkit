@@ -1,0 +1,1144 @@
+{
+ "scenes": [
+  {
+   "id": "title",
+   "sentences": [
+    {
+     "start": 1.08,
+     "end": 3.86,
+     "words": [
+      {
+       "text": "The",
+       "start": 1.08,
+       "end": 1.14,
+       "speaker": "N"
+      },
+      {
+       "text": "Boy",
+       "start": 1.24,
+       "end": 1.72,
+       "speaker": "N"
+      },
+      {
+       "text": "with",
+       "start": 2.24,
+       "end": 2.4,
+       "speaker": "N"
+      },
+      {
+       "text": "the",
+       "start": 2.44,
+       "end": 2.52,
+       "speaker": "N"
+      },
+      {
+       "text": "Whispering",
+       "start": 2.62,
+       "end": 3.22,
+       "speaker": "N"
+      },
+      {
+       "text": "Pocket",
+       "start": 3.32,
+       "end": 3.86,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/title.wav",
+     "start": 0.8,
+     "speaker": "N"
+    }
+   ],
+   "duration": 5.36
+  },
+  {
+   "id": "playground",
+   "sentences": [
+    {
+     "start": 1.82,
+     "end": 4.22,
+     "words": [
+      {
+       "text": "Leo",
+       "start": 1.82,
+       "end": 2.06,
+       "speaker": "N"
+      },
+      {
+       "text": "found",
+       "start": 2.18,
+       "end": 2.36,
+       "speaker": "N"
+      },
+      {
+       "text": "a",
+       "start": 2.42,
+       "end": 2.52,
+       "speaker": "N"
+      },
+      {
+       "text": "small",
+       "start": 2.64,
+       "end": 2.84,
+       "speaker": "N"
+      },
+      {
+       "text": "pebble",
+       "start": 3.0,
+       "end": 3.34,
+       "speaker": "N"
+      },
+      {
+       "text": "on",
+       "start": 3.38,
+       "end": 3.46,
+       "speaker": "N"
+      },
+      {
+       "text": "the",
+       "start": 3.5,
+       "end": 3.58,
+       "speaker": "N"
+      },
+      {
+       "text": "playground.",
+       "start": 3.62,
+       "end": 4.22,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 4.64,
+     "end": 6.68,
+     "words": [
+      {
+       "text": "It",
+       "start": 4.64,
+       "end": 4.72,
+       "speaker": "N"
+      },
+      {
+       "text": "was",
+       "start": 4.76,
+       "end": 4.96,
+       "speaker": "N"
+      },
+      {
+       "text": "round",
+       "start": 5.06,
+       "end": 5.52,
+       "speaker": "N"
+      },
+      {
+       "text": "and",
+       "start": 5.84,
+       "end": 5.94,
+       "speaker": "N"
+      },
+      {
+       "text": "smooth.",
+       "start": 6.14,
+       "end": 6.68,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 7.22,
+     "end": 9.0,
+     "words": [
+      {
+       "text": "It",
+       "start": 7.22,
+       "end": 7.36,
+       "speaker": "N"
+      },
+      {
+       "text": "glowed",
+       "start": 7.42,
+       "end": 7.76,
+       "speaker": "N"
+      },
+      {
+       "text": "a",
+       "start": 7.84,
+       "end": 7.94,
+       "speaker": "N"
+      },
+      {
+       "text": "soft",
+       "start": 8.04,
+       "end": 8.36,
+       "speaker": "N"
+      },
+      {
+       "text": "green.",
+       "start": 8.5,
+       "end": 9.0,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 10.3,
+     "end": 12.14,
+     "words": [
+      {
+       "text": "Leo",
+       "start": 10.3,
+       "end": 10.54,
+       "speaker": "N"
+      },
+      {
+       "text": "put",
+       "start": 10.64,
+       "end": 10.78,
+       "speaker": "N"
+      },
+      {
+       "text": "the",
+       "start": 10.82,
+       "end": 10.92,
+       "speaker": "N"
+      },
+      {
+       "text": "pebble",
+       "start": 11.0,
+       "end": 11.32,
+       "speaker": "N"
+      },
+      {
+       "text": "in",
+       "start": 11.38,
+       "end": 11.44,
+       "speaker": "N"
+      },
+      {
+       "text": "his",
+       "start": 11.48,
+       "end": 11.62,
+       "speaker": "N"
+      },
+      {
+       "text": "pocket.",
+       "start": 11.66,
+       "end": 12.14,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 12.54,
+     "end": 14.16,
+     "words": [
+      {
+       "text": "Then",
+       "start": 12.54,
+       "end": 12.78,
+       "speaker": "N"
+      },
+      {
+       "text": "he",
+       "start": 12.84,
+       "end": 12.96,
+       "speaker": "N"
+      },
+      {
+       "text": "went",
+       "start": 13.0,
+       "end": 13.22,
+       "speaker": "N"
+      },
+      {
+       "text": "back",
+       "start": 13.26,
+       "end": 13.46,
+       "speaker": "N"
+      },
+      {
+       "text": "to",
+       "start": 13.5,
+       "end": 13.6,
+       "speaker": "N"
+      },
+      {
+       "text": "class.",
+       "start": 13.64,
+       "end": 14.16,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/p1.wav",
+     "start": 1.6,
+     "speaker": "N"
+    },
+    {
+     "file": "audio/vo/p2.wav",
+     "start": 10.1,
+     "speaker": "N"
+    }
+   ],
+   "duration": 16.46
+  },
+  {
+   "id": "hum",
+   "sentences": [
+    {
+     "start": 1.8,
+     "end": 6.44,
+     "words": [
+      {
+       "text": "When",
+       "start": 1.8,
+       "end": 1.98,
+       "speaker": "N"
+      },
+      {
+       "text": "Leo",
+       "start": 2.08,
+       "end": 2.38,
+       "speaker": "N"
+      },
+      {
+       "text": "walked",
+       "start": 2.5,
+       "end": 2.78,
+       "speaker": "N"
+      },
+      {
+       "text": "past",
+       "start": 2.84,
+       "end": 3.12,
+       "speaker": "N"
+      },
+      {
+       "text": "the",
+       "start": 3.18,
+       "end": 3.3,
+       "speaker": "N"
+      },
+      {
+       "text": "old",
+       "start": 3.38,
+       "end": 3.56,
+       "speaker": "N"
+      },
+      {
+       "text": "cupboard,",
+       "start": 3.7,
+       "end": 4.18,
+       "speaker": "N"
+      },
+      {
+       "text": "his",
+       "start": 4.72,
+       "end": 4.94,
+       "speaker": "N"
+      },
+      {
+       "text": "pocket",
+       "start": 5.02,
+       "end": 5.4,
+       "speaker": "N"
+      },
+      {
+       "text": "began",
+       "start": 5.44,
+       "end": 5.78,
+       "speaker": "N"
+      },
+      {
+       "text": "to",
+       "start": 5.86,
+       "end": 6.0,
+       "speaker": "N"
+      },
+      {
+       "text": "hum.",
+       "start": 6.14,
+       "end": 6.44,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 6.69,
+     "end": 8.603,
+     "words": [
+      {
+       "text": "Hmm,",
+       "start": 6.69,
+       "end": 7.237,
+       "speaker": "N"
+      },
+      {
+       "text": "hmm,",
+       "start": 7.373,
+       "end": 7.92,
+       "speaker": "N"
+      },
+      {
+       "text": "hmm.",
+       "start": 8.057,
+       "end": 8.603,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 9.04,
+     "end": 10.54,
+     "words": [
+      {
+       "text": "It",
+       "start": 9.04,
+       "end": 9.1,
+       "speaker": "N"
+      },
+      {
+       "text": "was",
+       "start": 9.14,
+       "end": 9.26,
+       "speaker": "N"
+      },
+      {
+       "text": "a",
+       "start": 9.34,
+       "end": 9.4,
+       "speaker": "N"
+      },
+      {
+       "text": "happy",
+       "start": 9.5,
+       "end": 9.82,
+       "speaker": "N"
+      },
+      {
+       "text": "little",
+       "start": 9.86,
+       "end": 10.1,
+       "speaker": "N"
+      },
+      {
+       "text": "tune.",
+       "start": 10.18,
+       "end": 10.54,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/p3.wav",
+     "start": 1.6,
+     "speaker": "N"
+    }
+   ],
+   "duration": 11.8
+  },
+  {
+   "id": "hotcold",
+   "sentences": [
+    {
+     "start": 0.84,
+     "end": 1.92,
+     "words": [
+      {
+       "text": "Leo",
+       "start": 0.84,
+       "end": 1.18,
+       "speaker": "N"
+      },
+      {
+       "text": "stepped",
+       "start": 1.3,
+       "end": 1.52,
+       "speaker": "N"
+      },
+      {
+       "text": "away.",
+       "start": 1.6,
+       "end": 1.92,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 2.66,
+     "end": 3.8,
+     "words": [
+      {
+       "text": "The",
+       "start": 2.66,
+       "end": 2.76,
+       "speaker": "N"
+      },
+      {
+       "text": "humming",
+       "start": 2.86,
+       "end": 3.18,
+       "speaker": "N"
+      },
+      {
+       "text": "stopped.",
+       "start": 3.32,
+       "end": 3.8,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 4.62,
+     "end": 5.7,
+     "words": [
+      {
+       "text": "Leo",
+       "start": 4.62,
+       "end": 4.88,
+       "speaker": "N"
+      },
+      {
+       "text": "stepped",
+       "start": 4.98,
+       "end": 5.26,
+       "speaker": "N"
+      },
+      {
+       "text": "back.",
+       "start": 5.32,
+       "end": 5.7,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 6.08,
+     "end": 7.5,
+     "words": [
+      {
+       "text": "The",
+       "start": 6.08,
+       "end": 6.18,
+       "speaker": "N"
+      },
+      {
+       "text": "humming",
+       "start": 6.26,
+       "end": 6.58,
+       "speaker": "N"
+      },
+      {
+       "text": "started",
+       "start": 6.68,
+       "end": 7.0,
+       "speaker": "N"
+      },
+      {
+       "text": "again.",
+       "start": 7.08,
+       "end": 7.5,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/p4.wav",
+     "start": 0.6,
+     "speaker": "N"
+    }
+   ],
+   "duration": 8.84
+  },
+  {
+   "id": "secret",
+   "sentences": [
+    {
+     "start": 0.9,
+     "end": 5.12,
+     "words": [
+      {
+       "text": "\"There",
+       "start": 0.9,
+       "end": 1.5,
+       "speaker": "L"
+      },
+      {
+       "text": "is",
+       "start": 1.56,
+       "end": 1.66,
+       "speaker": "L"
+      },
+      {
+       "text": "a",
+       "start": 1.74,
+       "end": 1.82,
+       "speaker": "L"
+      },
+      {
+       "text": "secret",
+       "start": 2.02,
+       "end": 2.48,
+       "speaker": "L"
+      },
+      {
+       "text": "in",
+       "start": 2.52,
+       "end": 2.6,
+       "speaker": "L"
+      },
+      {
+       "text": "this",
+       "start": 2.64,
+       "end": 2.86,
+       "speaker": "L"
+      },
+      {
+       "text": "cupboard,\"",
+       "start": 2.94,
+       "end": 3.42,
+       "speaker": "L"
+      },
+      {
+       "text": "Leo",
+       "start": 4.34,
+       "end": 4.7,
+       "speaker": "N"
+      },
+      {
+       "text": "said.",
+       "start": 4.78,
+       "end": 5.12,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/leo.wav",
+     "start": 0.6,
+     "speaker": "L"
+    },
+    {
+     "file": "audio/vo/leosaid.wav",
+     "start": 4.0,
+     "speaker": "N"
+    }
+   ],
+   "duration": 6.44
+  },
+  {
+   "id": "open",
+   "sentences": [
+    {
+     "start": 2.42,
+     "end": 5.54,
+     "words": [
+      {
+       "text": "Leo",
+       "start": 2.42,
+       "end": 2.76,
+       "speaker": "N"
+      },
+      {
+       "text": "and",
+       "start": 2.82,
+       "end": 2.9,
+       "speaker": "N"
+      },
+      {
+       "text": "his",
+       "start": 2.94,
+       "end": 3.1,
+       "speaker": "N"
+      },
+      {
+       "text": "teacher,",
+       "start": 3.18,
+       "end": 3.58,
+       "speaker": "N"
+      },
+      {
+       "text": "Mrs.",
+       "start": 3.72,
+       "end": 3.86,
+       "speaker": "N"
+      },
+      {
+       "text": "Lin,",
+       "start": 4.12,
+       "end": 4.42,
+       "speaker": "N"
+      },
+      {
+       "text": "opened",
+       "start": 4.7,
+       "end": 4.98,
+       "speaker": "N"
+      },
+      {
+       "text": "the",
+       "start": 5.02,
+       "end": 5.08,
+       "speaker": "N"
+      },
+      {
+       "text": "cupboard.",
+       "start": 5.16,
+       "end": 5.54,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 6.2,
+     "end": 10.08,
+     "words": [
+      {
+       "text": "At",
+       "start": 6.2,
+       "end": 6.34,
+       "speaker": "N"
+      },
+      {
+       "text": "the",
+       "start": 6.42,
+       "end": 6.52,
+       "speaker": "N"
+      },
+      {
+       "text": "very",
+       "start": 6.7,
+       "end": 7.02,
+       "speaker": "N"
+      },
+      {
+       "text": "back",
+       "start": 7.28,
+       "end": 7.74,
+       "speaker": "N"
+      },
+      {
+       "text": "was",
+       "start": 8.2,
+       "end": 8.32,
+       "speaker": "N"
+      },
+      {
+       "text": "a",
+       "start": 8.4,
+       "end": 8.58,
+       "speaker": "N"
+      },
+      {
+       "text": "dusty",
+       "start": 8.66,
+       "end": 9.12,
+       "speaker": "N"
+      },
+      {
+       "text": "tin",
+       "start": 9.22,
+       "end": 9.48,
+       "speaker": "N"
+      },
+      {
+       "text": "box.",
+       "start": 9.56,
+       "end": 10.08,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 10.6,
+     "end": 13.04,
+     "words": [
+      {
+       "text": "Inside",
+       "start": 10.6,
+       "end": 11.0,
+       "speaker": "N"
+      },
+      {
+       "text": "the",
+       "start": 11.04,
+       "end": 11.14,
+       "speaker": "N"
+      },
+      {
+       "text": "box",
+       "start": 11.18,
+       "end": 11.56,
+       "speaker": "N"
+      },
+      {
+       "text": "were",
+       "start": 11.6,
+       "end": 11.74,
+       "speaker": "N"
+      },
+      {
+       "text": "letters",
+       "start": 11.86,
+       "end": 12.24,
+       "speaker": "N"
+      },
+      {
+       "text": "and",
+       "start": 12.28,
+       "end": 12.38,
+       "speaker": "N"
+      },
+      {
+       "text": "drawings.",
+       "start": 12.44,
+       "end": 13.04,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 13.44,
+     "end": 17.1,
+     "words": [
+      {
+       "text": "They",
+       "start": 13.44,
+       "end": 13.56,
+       "speaker": "N"
+      },
+      {
+       "text": "were",
+       "start": 13.58,
+       "end": 13.7,
+       "speaker": "N"
+      },
+      {
+       "text": "from",
+       "start": 13.76,
+       "end": 13.94,
+       "speaker": "N"
+      },
+      {
+       "text": "children",
+       "start": 14.02,
+       "end": 14.4,
+       "speaker": "N"
+      },
+      {
+       "text": "who",
+       "start": 14.44,
+       "end": 14.56,
+       "speaker": "N"
+      },
+      {
+       "text": "sat",
+       "start": 14.64,
+       "end": 14.8,
+       "speaker": "N"
+      },
+      {
+       "text": "in",
+       "start": 14.86,
+       "end": 14.92,
+       "speaker": "N"
+      },
+      {
+       "text": "this",
+       "start": 14.96,
+       "end": 15.12,
+       "speaker": "N"
+      },
+      {
+       "text": "class",
+       "start": 15.18,
+       "end": 15.64,
+       "speaker": "N"
+      },
+      {
+       "text": "fifty",
+       "start": 15.82,
+       "end": 16.18,
+       "speaker": "N"
+      },
+      {
+       "text": "years",
+       "start": 16.34,
+       "end": 16.6,
+       "speaker": "N"
+      },
+      {
+       "text": "ago!",
+       "start": 16.68,
+       "end": 17.1,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/p6.wav",
+     "start": 2.2,
+     "speaker": "N"
+    }
+   ],
+   "duration": 18.6
+  },
+  {
+   "id": "capsule",
+   "sentences": [
+    {
+     "start": 0.6,
+     "end": 4.34,
+     "words": [
+      {
+       "text": "\"It",
+       "start": 0.6,
+       "end": 0.92,
+       "speaker": "T"
+      },
+      {
+       "text": "is",
+       "start": 1.0,
+       "end": 1.1,
+       "speaker": "T"
+      },
+      {
+       "text": "a",
+       "start": 1.18,
+       "end": 1.38,
+       "speaker": "T"
+      },
+      {
+       "text": "time",
+       "start": 1.46,
+       "end": 1.86,
+       "speaker": "T"
+      },
+      {
+       "text": "capsule,\"",
+       "start": 1.94,
+       "end": 2.48,
+       "speaker": "T"
+      },
+      {
+       "text": "said",
+       "start": 3.34,
+       "end": 3.52,
+       "speaker": "N"
+      },
+      {
+       "text": "Mrs.",
+       "start": 3.599,
+       "end": 3.76,
+       "speaker": "N"
+      },
+      {
+       "text": "Lin.",
+       "start": 4.0,
+       "end": 4.34,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/lin.wav",
+     "start": 0.6,
+     "speaker": "T"
+    },
+    {
+     "file": "audio/vo/linsaid.wav",
+     "start": 3.1,
+     "speaker": "N"
+    }
+   ],
+   "duration": 5.9
+  },
+  {
+   "id": "ending",
+   "sentences": [
+    {
+     "start": 0.82,
+     "end": 2.38,
+     "words": [
+      {
+       "text": "The",
+       "start": 0.82,
+       "end": 0.92,
+       "speaker": "N"
+      },
+      {
+       "text": "pebble",
+       "start": 1.0,
+       "end": 1.4,
+       "speaker": "N"
+      },
+      {
+       "text": "stopped",
+       "start": 1.54,
+       "end": 1.88,
+       "speaker": "N"
+      },
+      {
+       "text": "humming.",
+       "start": 1.92,
+       "end": 2.38,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 3.46,
+     "end": 4.54,
+     "words": [
+      {
+       "text": "Leo",
+       "start": 3.46,
+       "end": 3.82,
+       "speaker": "N"
+      },
+      {
+       "text": "smiled.",
+       "start": 3.94,
+       "end": 4.54,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 5.02,
+     "end": 6.42,
+     "words": [
+      {
+       "text": "The",
+       "start": 5.02,
+       "end": 5.12,
+       "speaker": "N"
+      },
+      {
+       "text": "secret",
+       "start": 5.24,
+       "end": 5.58,
+       "speaker": "N"
+      },
+      {
+       "text": "was",
+       "start": 5.64,
+       "end": 5.82,
+       "speaker": "N"
+      },
+      {
+       "text": "found.",
+       "start": 5.92,
+       "end": 6.42,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/p8.wav",
+     "start": 0.6,
+     "speaker": "N"
+    }
+   ],
+   "duration": 8.96
+  },
+  {
+   "id": "words",
+   "sentences": [
+    {
+     "start": 1.08,
+     "end": 1.52,
+     "words": [
+      {
+       "text": "pebble",
+       "start": 1.08,
+       "end": 1.52,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 2.36,
+     "end": 2.88,
+     "words": [
+      {
+       "text": "pocket",
+       "start": 2.36,
+       "end": 2.88,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 3.62,
+     "end": 4.04,
+     "words": [
+      {
+       "text": "cupboard",
+       "start": 3.62,
+       "end": 4.04,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 4.98,
+     "end": 5.52,
+     "words": [
+      {
+       "text": "secret",
+       "start": 4.98,
+       "end": 5.52,
+       "speaker": "N"
+      }
+     ]
+    },
+    {
+     "start": 6.22,
+     "end": 7.12,
+     "words": [
+      {
+       "text": "time",
+       "start": 6.22,
+       "end": 6.48,
+       "speaker": "N"
+      },
+      {
+       "text": "capsule",
+       "start": 6.56,
+       "end": 7.12,
+       "speaker": "N"
+      }
+     ]
+    }
+   ],
+   "audio": [
+    {
+     "file": "audio/vo/words.wav",
+     "start": 0.8,
+     "speaker": "N"
+    }
+   ],
+   "duration": 8.8
+  }
+ ]
+}

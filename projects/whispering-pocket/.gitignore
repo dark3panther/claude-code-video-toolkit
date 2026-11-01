@@ -1,0 +1,5 @@
+node_modules
+art/out/
+out/f*.png
+out/render.log
+out/sample.png
